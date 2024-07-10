@@ -85,4 +85,4 @@ The process of building this web page was a bit challenging, but it helped me to
 
 ## Author
 
-- Website - [Alina Alexandra Vizireanu](https://yelp-camp-st81.onrender.com/campgrounds)
+- Website - [YELP CAMP](https://yelp-camp-st81.onrender.com/campgrounds)
